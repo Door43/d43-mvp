@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mvp:home|Door43 (mvp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mvp|d43-mvp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mvp/archive/master.zip|d43-mvp.zip]]
+
+**Recent Changes**
+{{changes>ns = mvp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mvp|Ethnologue data]]
+
